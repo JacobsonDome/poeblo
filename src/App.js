@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      immer weiter immer weiter!!!
+      immer weiter hoch!!
     </div>
   );
 }
